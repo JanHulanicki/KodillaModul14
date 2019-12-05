@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53f68f74-3635-427a-92b6-f9e99eb11600" name="Default Changelist" comment="" />
+    <list default="true" id="53f68f74-3635-427a-92b6-f9e99eb11600" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kodilla/spring/SpringRunnerTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kodilla/spring/SpringRunnerTestSuite.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UVvDW8dHqI1bXJh0v1BafSv7io" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -47,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.SpringRunnerTestSuite">
+  <component name="RunManager" selected="Gradle.LibraryTestSuite">
     <configuration name="ForumUserTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -68,12 +78,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ForumUserTestSuite.testGetUsername" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LibraryTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.forum.ForumUserTestSuite.testGetUsername&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.library.LibraryTestSuite&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LibraryTestSuite.testLoadFromDb" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.library.LibraryTestSuite.testLoadFromDb&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -108,32 +138,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SpringRunnerTestSuite.testCircleLoadedIntoContainer" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SpringRunnerTestSuite.testSquareLoadedIntoContainer" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.SpringRunnerTestSuite.testCircleLoadedIntoContainer&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="SpringRunnerTestSuite.testTriangleLoadedIntoContainer" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.SpringRunnerTestSuite.testTriangleLoadedIntoContainer&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.SpringRunnerTestSuite.testSquareLoadedIntoContainer&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -157,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.LibraryTestSuite" />
+        <item itemvalue="Gradle.LibraryTestSuite.testLoadFromDb" />
         <item itemvalue="Gradle.SpringRunnerTestSuite" />
+        <item itemvalue="Gradle.SpringRunnerTestSuite.testSquareLoadedIntoContainer" />
         <item itemvalue="Gradle.ForumUserTestSuite" />
-        <item itemvalue="Gradle.ForumUserTestSuite.testGetUsername" />
-        <item itemvalue="Gradle.SpringRunnerTestSuite.testCircleLoadedIntoContainer" />
-        <item itemvalue="Gradle.SpringRunnerTestSuite.testTriangleLoadedIntoContainer" />
       </list>
     </recent_temporary>
   </component>
@@ -177,11 +187,25 @@
       <updated>1575454457514</updated>
       <workItem from="1575454464975" duration="2287000" />
       <workItem from="1575482539053" duration="1903000" />
-      <workItem from="1575547439940" duration="1859000" />
+      <workItem from="1575547439940" duration="2650000" />
+      <workItem from="1575566161141" duration="6277000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
