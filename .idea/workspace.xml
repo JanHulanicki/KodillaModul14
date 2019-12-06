@@ -2,30 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53f68f74-3635-427a-92b6-f9e99eb11600" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-web/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-web/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-web/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-web/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-web/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-web/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-web/src/main/java/com/kodilla/spring/web/KodillaSpringWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-web/src/test/java/com/kodilla/spring/web/KodillaSpringWebApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/calculator/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/calculator/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/calculator/Display.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/calculator/Display.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/library/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/spring/library/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/kodilla/spring/library/LibraryTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/kodilla/spring/library/LibraryTestSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.kodilla.spring.calculator.CalculatorTestSuite.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.kodilla.spring.calculator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.kodilla.spring.calculator.CalculatorTestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/library/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/spring/library/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/kodilla/spring/library/LibraryTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kodilla/spring/library/LibraryTestSuite.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +23,9 @@
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/kodilla-spring-web">
       <ProjectState />
     </projectState>
   </component>
@@ -86,7 +77,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.ReaderTestSuite.testConditional">
+  <component name="RunManager" selected="Spring Boot.KodillaSpringWebApplication">
+    <configuration name="BoardTestSuite.testTaskAdd" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.portfolio.BoardTestSuite.testTaskAdd&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="CalculatorTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -113,26 +124,6 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.library.LibraryTestSuite&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="LibraryTestSuite.testLoadFromDb" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.library.LibraryTestSuite.testLoadFromDb&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -187,6 +178,13 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="KodillaSpringWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kodilla.spring.web.KodillaSpringWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringRunner" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="kodilla-spring.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.kodilla.spring.SpringRunner" />
@@ -196,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.BoardTestSuite.testTaskAdd" />
         <item itemvalue="Gradle.ReaderTestSuite.testConditional" />
         <item itemvalue="Gradle.ReaderTestSuite" />
         <item itemvalue="Gradle.LibraryTestSuite" />
         <item itemvalue="Gradle.CalculatorTestSuite" />
-        <item itemvalue="Gradle.LibraryTestSuite.testLoadFromDb" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +216,7 @@
       <workItem from="1575482539053" duration="1903000" />
       <workItem from="1575547439940" duration="2650000" />
       <workItem from="1575566161141" duration="9609000" />
-      <workItem from="1575646074989" duration="4328000" />
+      <workItem from="1575646074989" duration="7342000" />
     </task>
     <servers />
   </component>
